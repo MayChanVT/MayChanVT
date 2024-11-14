@@ -5,6 +5,9 @@
 - 📫 How to reach me maychanttv@gmail.com
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I'm a VTuber, I like gaming, I stream variety, I enjoy a handful of hobbies!
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@MayChan/30-nites-of-code)  
+  ![@MayChan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MayChan)
 
 <!---
 MayChanVT/MayChanVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
